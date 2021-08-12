@@ -24,6 +24,7 @@ navbar=`
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="note.html">Js備忘錄</a></li>
+            <li><a class="dropdown-item" href="interactive_buttom.html">互動式按鈕</a></li>
           </ul>
         </li><!--下拉選單結束-->
         <!--下拉選單-->
@@ -37,7 +38,7 @@ navbar=`
           </ul>
         </li><!--下拉選單結束-->
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="about.html">關於</a>
+          <a class="nav-link" aria-current="page" href="about.html">關於</a>
         </li>
       </ul>
     </div><!-- 其他頁面結束 -->
