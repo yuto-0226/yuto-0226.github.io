@@ -36,6 +36,9 @@ navbar=`
             <li><a class="dropdown-item" href="download.html">下載</a></li>
           </ul>
         </li><!--下拉選單結束-->
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="about.html">關於</a>
+        </li>
       </ul>
     </div><!-- 其他頁面結束 -->
   </div>
