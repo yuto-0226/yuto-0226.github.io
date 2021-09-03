@@ -16,7 +16,7 @@ function render(){
         htmlStr = htmlStr+`
         <div class="py-1">
             <div class="card">
-                <div class="card-header">#${item.title}</div>
+                <div class="card-header"># ${item.title}</div>
                     <div class="card-body">
                       <p class="card-text">${item.content}</p>
                     </div>
@@ -44,5 +44,4 @@ deletedBtn.addEventListener('click',function(){
     listContent.pop()
 
     render()
-    
 })
